@@ -1,1 +1,1 @@
-# wiki
+# Only using the wiki feature
